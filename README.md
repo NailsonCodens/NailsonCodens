@@ -1,11 +1,11 @@
 <img src="https://avatars.githubusercontent.com/u/22625360?v=4" width="200px" 
 style="border-radius:100px; margin-top:60px; margin-left: 30px;" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-<h1>Sobre mim</h1>
+<h1>Oi, eu sou o Nailson Israel. </h1>
 <p align="left"> 
-  Oi, eu sou o Nailson Israel. Sou desenvolvedor de software há 9 anos, a maior parte dos anos empreendendo na àrea da tecnologia criando projetos conforme a demanda dos clientes.
+  Sou desenvolvedor de software há 9 anos, a maior parte dos anos empreendendo na àrea da tecnologia.
   </br></br>
-   Desenvolvendo o WhiteBoard Brasil(Code Interview), uma plataforma gratuíta opensource que pretende expor os conceitos de entrevistas de códigos para desenvolvedores como também os conceitos que são buscados em um desenvolvedor.
+   Estou desenvolvendo o WhiteBoard Brasil(Code Interview), uma plataforma opensource que pretende expor os conceitos de entrevistas de códigos para desenvolvedores como também os conceitos e fundamentos da computação como Big O, Estrutura de dados e etc.
   </br>
 
 🎓 &nbsp; Estudando **Ciência da Computação** no <a href="https://www.up.edu.br/processo-seletivo/graduacao-presencial/?utm_source=google-search&utm_medium=search&utm_campaign=perf_conversao_regular_marca_aquisicao_graduacao_positivo_curitiba_2022-2&utm_content=null_cpc_palavra-chave_null_null_null_texto_null_null_null"><b>POSITIVO</b></a>.
