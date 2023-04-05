@@ -3,9 +3,10 @@ style="border-radius:100px; margin-top:60px; margin-left: 30px;" max-width="400p
 
 <h1>Oi, eu sou o Nailson Israel. </h1>
 <p align="left"> 
-  Sou desenvolvedor de software há 9 anos, a maior parte dos anos empreendendo na àrea da tecnologia.
+  Sou desenvolvedor de software  de 27 anos e trabalho com desenvolvimento há 10 anos.
+  Nesta área de atuação venho realizando atividades que me proporcionaram não só o domínio do mundo da tencnologia, como também o desenvolvimento de habilidades sociais, como o diálogo com clientes finais, entender nos detalhes as demandas que cada um tem, o entendimento do negócio como um todo além do código e a atenção voltada aos detalhes que podem impactar a eficiência do negócio.
   </br></br>
-   Estou desenvolvendo o WhiteBoard Brasil(Code Interview), uma plataforma opensource que pretende expor os conceitos de entrevistas de códigos para desenvolvedores como também os conceitos e fundamentos da computação como Big O, Estrutura de dados e etc.
+  Atualmente trabalho em um projeto paralelo, que utiliza inteligência artificial para solucionar questões e dúvidas que as pessoas tem sobre a fé cristã que estamos entitulando de SabedorIA.
   </br>
 
 🎓 &nbsp; Estudando **Ciência da Computação** no <a href="https://www.up.edu.br/processo-seletivo/graduacao-presencial/?utm_source=google-search&utm_medium=search&utm_campaign=perf_conversao_regular_marca_aquisicao_graduacao_positivo_curitiba_2022-2&utm_content=null_cpc_palavra-chave_null_null_null_texto_null_null_null"><b>POSITIVO</b></a>.
@@ -14,9 +15,7 @@ style="border-radius:100px; margin-top:60px; margin-left: 30px;" max-width="400p
 
 💼 &nbsp; Trabalhando como **Desenvolvedor de software** na <b>CODENS</b>.
 </br>
-<i style="color:#1e9cea;">Atualmente empreendendo mas sempre aberto a boas oportunidades.</i>
-</br></br>
-<i><b>Disclaimer:</b></i> Muito dos meus projetos são privados por questões de segurança comercial. Caso queira conhecer mais dos meus projetos, me envie uma solicitação. Será um prazer mostrar os projetos para você.
+<i style="color:#1e9cea;"></i>
 
 </p>
 </br>
