@@ -60,7 +60,7 @@ Tenho experiência nestas linguagens e frameworks:
 </br></br>
 
 <p align="left">
-Se quiser falar comigo, mande um e-mail ou uma mensagem no Likedin
+Se quiser falar comigo, mande um e-mail ou uma mensagem no LinkedIn
 </p>
 
 [![Linkedin: SEU NOME](https://img.shields.io/badge/-Nailson%20Israel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](LINK-DO-SEU-LINKEDIN)
