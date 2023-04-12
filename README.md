@@ -61,7 +61,7 @@
 
 -----------------------
 
-##### Backend JS
+### Backend JS
 
 ![API](https://img.shields.io/badge/api-%23404d59.svg?style=for-the-badge&logo=fastapi&logoColor=%fff) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 
@@ -72,58 +72,58 @@
 
 -----------------------
 
-##### Php Frameworks
+### Php Frameworks
 
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 
 -----------------------
 
-##### Bancos de dados
+### Bancos de dados
 
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 -----------------------
 
-##### Hosting
+### Hosting
 
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
 
 -----------------------
 
-##### Gerenciador de pacotes
+### Gerenciador de pacotes
 
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![Composer](https://img.shields.io/badge/composer-524944.svg?style=for-the-badge&logo=composer&logoColor=white)
 
 -----------------------
 
 
-##### Virtualização/Container
+### Virtualização/Container
 
 ![Docker](https://img.shields.io/badge/Docker-0994E0.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 -----------------------
 
 
-##### Cloud - Básico
+### Cloud - Básico
 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 -----------------------
 
-##### Design
+### Design
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-011C37.svg?style=for-the-badge&logo=adobephotoshop&logoColor=#38A8FF)
 
 -----------------------
 
-##### CI/CD
+### CI/CD
 ![Git Action](https://img.shields.io/badge/GIHUB%20ACTIONS-000.svg?style=for-the-badge&logo=github-actions&logoColor=#1C81F2) ![JIra](https://img.shields.io/badge/Jira-2481FC.svg?style=for-the-badge&logo=jira&logoColor=fff)
 
 -----------------------
 
-##### Versionamento
+### Versionamento
 ![Git](https://img.shields.io/badge/git-000.svg?style=for-the-badge&logo=git&logoColor=fff) ![Git Action](https://img.shields.io/badge/GIHUB-E44C30.svg?style=for-the-badge&logo=github&logoColor=fff) ![Bitbucket](https://img.shields.io/badge/Bitbucket-257CF1.svg?style=for-the-badge&logo=bitbucket&logoColor=fff)
 
 
-##### Estudando
+### Estudando
 ![Python](https://img.shields.io/badge/python-3776AB.svg?style=for-the-badge&logo=python&logoColor=fff) ![kubernetes](https://img.shields.io/badge/Kubernets-326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=fff) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Microserviços](https://img.shields.io/badge/Microserviços-000.svg?style=for-the-badge&logo=microstrategy&logoColor=white)
