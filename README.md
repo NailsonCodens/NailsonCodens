@@ -1,5 +1,3 @@
-<img src="https://avatars.githubusercontent.com/u/22625360?v=4" width="200px" 
-style="border-radius:100px; margin-top:60px; margin-left: 30px;" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <h1>Oi, eu sou o Nailson Israel. </h1>
 <p align="left"> 
