@@ -17,7 +17,7 @@
 <div align="center"> 
 
   # 💫 Sobre mim:
-  🔭 Trabalho como Desenvolvedor há 9 Anos<br>👯 Estou criando o sabedorIA.<br>🌱 Estou aprendendo atualmente AWS, Python e Microserviços<br>💬 Me pergunte algo se quiser<br>⚡ Pode não parecer, mas sou tímido.
+  🔭 Trabalho como Desenvolvedor há 10 Anos<br>👯 Estou criando o sabedorIA.<br>🌱 Estou aprendendo atualmente AWS, Python e Microserviços<br>💬 Me pergunte algo se quiser<br>⚡ Pode não parecer, mas sou tímido.
 </div>
 </br>
 <h3 align="center">"Se você tem os fundamentos o resto é complemento."</h3>
